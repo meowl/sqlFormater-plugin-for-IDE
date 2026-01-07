@@ -4,7 +4,7 @@
     <name>Sql_wrapper_plugin2</name>
     <version>0.1.2</version>
     <vendor email="supermpf1987@gmail.com">Meo</vendor>
-    <idea-version since-build="183.2407.10"/>
+    <idea-version since-build="222" until-build="253.*"/>
     <description><![CDATA[
         <p>A simple sql formatter tool for Java.</p>
         <p>The sql formatter dependent on <a href="https://github.com/vertical-blank/sql-formatter">https://github.com/vertical-blank/sql-formatter</a></p>
